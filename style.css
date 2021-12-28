@@ -1,0 +1,62 @@
+
+                body {
+                    background-color: #FFF;
+                    font-family: arial, verdana, helvetica, sans-serif;
+                    font-size: 16px;
+                    margin: 0px;
+                    padding: 4%;
+                    color: #366;
+                }
+                table {
+                    border: 0px solid red;
+                    margin: 0px auto 20px auto;
+                    table-layout: fixed;
+                    width: 1000px;
+                    text-align: left;
+                } 
+                td {
+                    padding: 7px;
+                    vertical-align: top;
+                }
+                .corpo {
+                    background-image: url(./assets/fundo.jpg);
+                    height: 440px;
+                }
+                .cabecalho td:first-child, .logo {
+                    width: 200px;
+                    margin-left: 35px;
+                }
+                .informacoes {
+                    padding-left: 310px;
+                }
+                img {
+                    border: 0px;
+                    margin: 5px;
+                }
+                .info {
+                    font-weight: bold;
+                    font-size: 13px;
+                    padding-bottom: 10px;
+                }
+                .dado {
+                    font-size: 13px;
+                }
+                .assunto {
+                    font-size: larger;
+                    margin:15px auto auto 93px;
+                }
+                .realce {
+                    color: #007;
+                }
+                .titulo {
+                    margin: 30px auto auto 93px; 
+                    font-size: 30px;
+                    font-weight: bold;
+                    padding-top: 25px;
+                }
+                .direcionamento div {
+                    padding-left: 200px;
+                    text-align: center;
+                    font-size: larger;
+                    margin-bottom: 20px;
+                }
